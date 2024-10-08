@@ -1,0 +1,32 @@
+---
+config_profile_name        : "abdominal_64latent"
+config_profile_description : "Using the 64-dimensional latent vector from pythae Resnet, CIFAR-10 pretrained model as features for GWAS analysis. This is for the abdominal phenotype V15."
+
+# Limit resources so that this can run on GitHub Actions
+max_cpus                   : 6
+max_memory                 : "128.GB"
+max_time                   : "240.h"
+
+# Input options
+vcf                        : "/nfs/research/birney/projects/indigene/vertebrae-f2/gwas/genotypes/joint_stitch_output.vcf.gz"
+freq                       : "/nfs/research/birney/projects/indigene/datafreeze/13-01-2023/vcf/joint_germline.vcf.gz"
+pheno                      : "/hps/nobackup/birney/users/esther/64feature_phenotypes_08052024.txt"
+covar                      : "/hps/nobackup/birney/users/esther/covar_20032024.tsv"
+use_dosage                 : false
+maf_min                    : 0.1
+
+# Run options
+# select_chr                 : ""
+select_pheno               : "V15"
+
+# Phenotypes options
+quantile_normalise         : true        
+
+# Statistical models
+null_model_formula         : "y ~ cross_id + plate_id"
+model_formula              : "y ~ x + cross_id + plate_id"
+permutations               : 10
+permute_by                 : "cross_id"
+
+# Boilerplate options
+outdir                     : "/nfs/research/birney/users/esther/medaka-img/results_64latent_abdominal_V15_08052024/"

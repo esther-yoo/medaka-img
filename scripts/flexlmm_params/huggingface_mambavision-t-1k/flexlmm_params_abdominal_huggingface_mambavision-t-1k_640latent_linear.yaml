@@ -1,0 +1,32 @@
+---
+config_profile_name        : "caudal_huggingface_mambavision-t-1k_640latent_linear"
+config_profile_description : "Using the 640-dimensional latent vector output from Huggingface pretrained model (no fine-tuning) as features for GWAS analysis. This is for the caudal phenotype V624."
+
+# Limit resources so that this can run on GitHub Actions
+max_cpus                   : 6
+max_memory                 : "128.GB"
+max_time                   : "240.h"
+
+# Input options
+vcf                        : "/nfs/research/birney/projects/indigene/vertebrae-f2/gwas/genotypes/joint_stitch_output.vcf.gz"
+freq                       : "/nfs/research/birney/users/esther/joint_germline.vcf.gz"
+pheno                      : "/hps/nobackup/birney/users/esther/640feature_phenotypes_rawmodeloutput_22092024.txt"
+covar                      : "/hps/nobackup/birney/users/esther/covar_20032024.tsv"
+use_dosage                 : false
+maf_min                    : 0.1
+
+# Run options
+# select_chr                 : ""
+select_pheno               : "V624"
+
+# Phenotypes options
+quantile_normalise         : true        
+
+# Statistical models
+null_model_formula         : "y ~ cross_id + plate_id"
+model_formula              : "y ~ x + cross_id + plate_id"
+permutations               : 10
+permute_by                 : "cross_id"
+
+# Boilerplate options
+outdir                     : "/nfs/research/birney/users/esther/medaka-img/results_huggingface_mambavision-t-1k/raw-model/results_640latent_caudal_V624_23092024/"

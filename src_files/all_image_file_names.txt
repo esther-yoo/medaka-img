@@ -1,0 +1,2354 @@
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A1.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A2.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A3.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A4.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A5.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A6.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_G10.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_G11.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_G12.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_G9.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H1.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H2.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H3.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H4.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H10.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H11.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H12.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H5.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H6.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H7.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H8.tif
+PLATE 10 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H9.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F10.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F8.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F9.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B11.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B12.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C1.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C2.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C3.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C4.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C10.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C5.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C6.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C7.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C8.tif
+PLATE 10 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C9.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A10.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A11.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A12.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A7.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A8.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A9.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B10.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B1.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B2.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B3.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B4.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B5.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B6.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B7.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B8.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B9.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_F11.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_F12.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G1.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G2.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G3.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G4.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G5.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G6.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G7.tif
+PLATE 10 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G8.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F5.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F6.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F7.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D11.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D12.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E10.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E11.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E12.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E1.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E2.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E3.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E4.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E5.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E6.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E7.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E8.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E9.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F1.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F2.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F3.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F4.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C11.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C12.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D10.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D1.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D2.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D3.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D4.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D5.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D6.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D7.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D8.tif
+PLATE 10 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D9.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H10.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H11.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H3.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H4.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H5.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H6.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H7.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H8.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H9.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G10.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G2.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G3.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G4.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G5.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G6.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G7.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G8.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G9.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E10.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E11.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E12.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E3.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E4.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E5.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E6.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E7.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E8.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E9.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F1.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F2.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F3.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F4.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F5.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F6.tif
+PLATE 11 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F7.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A1.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A2.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A3.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A4.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A5.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A6.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A7.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_G11.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_G12.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H1.tif
+PLATE 11 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H2.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A10.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A11.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A12.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A8.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A9.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B1.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B2.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B3.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B4.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B5.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B6.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B7.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B8.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B9.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H12.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B10.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B11.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B12.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C10.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C11.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C12.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C1.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C2.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C3.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C4.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C5.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C6.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C7.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C8.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C9.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D10.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D11.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D12.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D1.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D2.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D3.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D4.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D5.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D6.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D7.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D8.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D9.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E1.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E2.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F10.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F11.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F12.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F8.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F9.tif
+PLATE 11 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G1.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B10.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B11.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B12.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B6.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B7.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B8.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B9.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C10.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C11.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C12.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C1.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C2.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C3.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C4.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C5.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C6.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C7.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C8.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C9.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D10.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D11.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D12.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D1.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D2.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D3.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D4.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D5.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D6.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D7.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D8.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D9.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E1.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E2.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E3.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E4.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E5.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E6.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E7.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E10.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E11.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E12.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E8.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E9.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F1.tif
+PLATE 12 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F2.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G10.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G11.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G12.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G2.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G3.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G4.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G5.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G6.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G7.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G8.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G9.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H10.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H1.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H2.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H3.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H4.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H5.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H6.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H7.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H8.tif
+PLATE 12 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H9.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A10.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A11.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A12.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A1.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A2.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A3.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A4.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A5.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A6.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A7.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A8.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A9.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B1.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B2.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B3.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B4.tif
+PLATE 12 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B5.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H11.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H12.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F10.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F11.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F12.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F3.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F4.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F5.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F6.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F7.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F8.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F9.tif
+PLATE 12 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G1.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C10.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C11.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C12.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C5.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C6.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C7.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C8.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C9.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_D1.tif
+PLATE 13 F2 VC_ Female 95-1 F14 x Male 72-1 F14_D2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A10.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A11.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A1.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A4.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A5.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A6.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A7.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A8.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A9.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D10.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D4.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D5.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D6.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D7.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D8.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 129-1 F14_D9.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D11.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D12.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E10.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E11.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E12.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E1.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E4.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E5.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E6.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E7.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E8.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E9.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F10.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F11.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F12.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F1.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F4.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F5.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F6.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F7.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F8.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F9.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G10.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G11.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G12.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G1.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G4.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G5.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G6.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G7.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G8.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G9.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H10.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H11.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H12.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H1.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H4.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H5.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H6.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H7.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H8.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H9.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_A12.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B10.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B11.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B12.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B1.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B4.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B5.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B6.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B7.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B8.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B9.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C1.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C2.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C3.tif
+PLATE 13 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C4.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_C10.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_C11.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_C12.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_C6.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_C7.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_C8.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_C9.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D10.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D11.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D12.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D1.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D2.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D3.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D4.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D5.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D6.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D7.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D8.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D9.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E10.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E11.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E12.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E1.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E2.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E3.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E4.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E5.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E6.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E7.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E8.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E9.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F1.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F2.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F3.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F4.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F5.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F6.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 10-1 F14_F7.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A10.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A11.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A12.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A6.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A7.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A8.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A9.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B10.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B11.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B12.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B1.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B2.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B3.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B4.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B5.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B6.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B7.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B8.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B9.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C1.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C2.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C3.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C4.tif
+PLATE 14 F2 VC_ Female 95-1 F14 x Male 33-1 F14_C5.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F10.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F11.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F12.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F8.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F9.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G10.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G11.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G12.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G1.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G2.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G3.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G4.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G5.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G6.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G7.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G8.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G9.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H10.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H11.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H12.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H1.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H2.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H3.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H4.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H5.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H6.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H7.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H8.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H9.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 33-1 F14_A1.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 33-1 F14_A2.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 33-1 F14_A3.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 33-1 F14_A4.tif
+PLATE 14 F2 VC_ Male 95-1 F14 x Female 33-1 F14_A5.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A10.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A11.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A12.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A9.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B10.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B11.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B12.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B1.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B2.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B3.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B4.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B5.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B6.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B7.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B8.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B9.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C1.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C2.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C3.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H10.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H11.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H12.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H6.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H7.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H8.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H9.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C10.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C11.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C12.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C4.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C5.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C6.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C7.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C8.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C9.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D10.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D11.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D1.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D2.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D3.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D4.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D5.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D6.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D7.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D8.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D9.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 60-1 F14_G12.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H1.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H2.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H3.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H4.tif
+PLATE 15 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H5.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A1.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A2.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A3.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A4.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A5.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A6.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A7.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A8.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D12.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E10.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E11.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E12.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E1.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E2.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E3.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E4.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E5.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E6.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E7.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E8.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E9.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F10.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F11.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F12.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F1.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F2.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F3.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F4.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F5.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F6.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F7.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F8.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F9.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G1.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G2.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G3.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G4.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G5.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G6.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G10.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G11.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G7.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G8.tif
+PLATE 15 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G9.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A10.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A11.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A2.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A3.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A4.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A5.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A6.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A7.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A8.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_A9.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B10.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B11.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B2.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B3.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B4.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B5.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B6.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B7.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B8.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B9.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C10.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C11.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C2.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C3.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C4.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C5.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C6.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C7.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C8.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C9.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D10.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D11.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D2.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D3.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D4.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D5.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D6.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D7.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D8.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D9.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 10-1 F14_E1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F10.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F11.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F2.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F3.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F4.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F5.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F6.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F7.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F8.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F9.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G10.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G11.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G2.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G3.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G4.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G5.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G6.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G7.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G8.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_G9.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H10.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H11.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H12.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H1.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H2.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H3.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H4.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H5.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H6.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H7.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H8.tif
+PLATE 16 F2 VC_ Female 14-2 F14 x Male 129-1 F14_H9.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E10.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E11.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E2.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E3.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E4.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E5.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E6.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E7.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E8.tif
+PLATE 16 F2 VC_ Male 14-2 F14 x Female 10-1 F14_E9.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 129-1 F14_A1.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 129-1 F14_A2.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 129-1 F14_A3.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H10.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H11.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H12.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H1.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H2.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H3.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H4.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H5.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H6.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H7.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H8.tif
+PLATE 17 F2 VC_ Female 14-2 F14 x Male 60-1 F14_H9.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A10.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A11.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A12.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A4.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A5.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A6.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A7.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A8.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A9.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B10.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B11.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B12.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B1.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B2.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B3.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B4.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B5.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B6.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B7.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B8.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_B9.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C10.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C11.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C12.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C1.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C2.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C3.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C4.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C5.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C6.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C7.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C8.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_C9.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D10.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D11.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D12.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D1.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D2.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D3.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D4.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D5.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D6.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D7.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D8.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_D9.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E10.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E11.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E12.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E1.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E2.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E3.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E4.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E5.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E6.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E7.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E8.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_E9.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F10.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F11.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F12.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F1.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F2.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F3.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F4.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F5.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F6.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F7.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F8.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_F9.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G10.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G11.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G12.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G1.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G2.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G3.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G4.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G5.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G6.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G7.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G8.tif
+PLATE 17 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G9.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B11.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B12.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C10.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C11.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C12.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C1.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C2.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C3.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C4.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C5.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C6.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C7.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C8.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_C9.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D10.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D11.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D12.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D1.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D2.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D3.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D4.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D5.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D6.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D7.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D8.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_D9.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E10.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E11.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E12.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E1.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E2.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E3.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E4.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E5.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E6.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E7.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E8.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_E9.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F10.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F11.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F1.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F2.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F3.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F4.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F5.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F6.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F7.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F8.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 33-1 F14_F9.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A10.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A11.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A12.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A1.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A2.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A3.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A4.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A5.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A6.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A7.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A8.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_A9.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B10.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B1.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B2.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B3.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B4.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B5.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B6.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B7.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B8.tif
+PLATE 18 F2 VC_ Female 14-2 F14 x Male 60-1 F14_B9.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_F12.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G10.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G11.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G12.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G1.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G2.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G3.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G4.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G5.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G6.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G7.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G8.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_G9.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H10.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H11.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H12.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H1.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H2.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H3.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H4.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H5.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H6.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H7.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H8.tif
+PLATE 18 F2 VC_ Male 14-2 F14 x Female 33-1 F14_H9.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H10.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H11.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H12.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H7.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H8.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H9.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E10.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E11.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E7.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E8.tif
+PLATE 19 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E9.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A10.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A11.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A12.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A1.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A2.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A3.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A4.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A5.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A6.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A7.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A8.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_A9.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B10.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B11.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B12.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B1.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B2.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B3.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B4.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B5.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B6.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B7.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B8.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B9.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C10.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C11.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C12.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C1.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C2.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C3.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C4.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C5.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C6.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C7.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C8.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C9.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D1.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D2.tif
+PLATE 19 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D3.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G10.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G11.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G12.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G1.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G2.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G3.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G4.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G5.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G6.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G7.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G8.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G9.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H1.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H2.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H3.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H4.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H5.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H6.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_E12.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F10.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F11.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F12.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F1.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F2.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F3.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F4.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F5.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F6.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F7.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F8.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 129-1 F14_F9.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D10.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D11.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D12.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D4.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D5.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D6.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D7.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D8.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_D9.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E1.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E2.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E3.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E4.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E5.tif
+PLATE 19 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E6.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E04.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E11.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E12.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E5.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E6.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E7.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E8.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_E9.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F11.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F12.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F1.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F2.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F3.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F4.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F5.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F6.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F7.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F8.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_F9.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G11.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G12.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G1.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G2.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G3.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G4.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G5.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G6.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G7.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G8.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_G9.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H11.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H12.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H1.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H2.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H3.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H4.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H5.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H6.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H7.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H8.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 129-1 F14_H9.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A01.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A02.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A03.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A04.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A05.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A06.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A07.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A08.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A09.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A11.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_A12.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B011.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B012.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B01.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B02.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B03.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B04.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B05.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B06.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B07.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B08.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B09.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_B10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C01.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C02.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C03.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C04.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C05.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C06.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C07.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C08.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C09.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C11.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_C12.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D01.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D02.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D03.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D04.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D05.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D06.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D07.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D08.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D09.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D10.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D11.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_D12.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_E01.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_E02.tif
+PLATE 1 F2 VC_Female 95-1 F14 x Male 72-1 F14_E03.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A10.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A1.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A2.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A3.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A4.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A5.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A6.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A7.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A8.tif
+PLATE 20 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A9.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_A11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_A12.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B10.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B12.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B1.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B2.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B3.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B4.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B5.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B6.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B7.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B8.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_B9.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C10.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C12.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C1.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C2.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C3.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C4.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C5.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C6.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C7.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C8.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_C9.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D10.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D12.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D1.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D2.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D3.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D4.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D5.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D6.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D7.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D8.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_D9.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E10.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E12.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E1.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E2.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E3.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E4.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E5.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E6.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E7.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E8.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_E9.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F10.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F12.PNG
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F1.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F2.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F3.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F4.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F5.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F6.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F7.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F8.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_F9.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G10.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G12.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G1.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G2.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G3.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G4.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G5.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G6.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G7.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G8.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_G9.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H10.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H11.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H12.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H1.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H2.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H3.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H4.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H5.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H6.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H7.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H8.tif
+PLATE 20 F2 VC_ Male 95-1 F14 x Female 33-1 F14_H9.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D10.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D11.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D12.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D4.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D5.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D6.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D7.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D8.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_D9.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E10.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E1.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E2.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E3.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E4.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E5.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E6.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E7.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E8.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_E9.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_G10.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_G11.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_G12.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H10.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H11.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H12.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H1.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H2.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H3.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H4.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H5.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H6.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H7.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H8.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 10-1 F14_H9.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A10.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A11.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A12.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A1.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A2.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A3.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A4.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A5.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A6.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A7.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A8.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_A9.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B1.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B2.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 33-1 F14_B3.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C10.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C11.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C12.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C8.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_C9.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_D1.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_D2.tif
+PLATE 21 F2 VC_ Female 95-1 F14 x Male 72-1 F14_D3.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_E11.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_E12.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F10.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F11.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F12.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F1.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F2.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F3.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F4.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F5.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F6.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F7.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F8.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_F9.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G1.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G2.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G3.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G4.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G5.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G6.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G7.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G8.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 10-1 F14_G9.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B10.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B11.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B12.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B4.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B5.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B6.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B7.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B8.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B9.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C1.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C2.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C3.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C4.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C5.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C6.tif
+PLATE 21 F2 VC_ Male 95-1 F14 x Female 72-1 F14_C7.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B10.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B11.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B12.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B1.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B2.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B3.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B4.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B5.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B6.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B7.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B8.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_B9.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C10.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C11.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C12.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C1.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C2.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C3.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C4.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C5.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C6.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C7.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C8.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_C9.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D1.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D2.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 129-1 F14_D3.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H10.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H11.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H12.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H8.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 33-1 F14_H9.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D10.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D11.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D12.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D4.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D5.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D6.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D7.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D8.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_D9.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E10.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E11.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E12.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E1.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E2.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E3.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E4.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E5.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E6.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E7.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E8.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_E9.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F10.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F11.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F12.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F1.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F2.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F3.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F4.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F5.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F6.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F7.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F8.tif
+PLATE 22 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F9.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A10.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A11.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A12.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A1.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A2.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A3.tif
+PLATE 22F2 VC_ Male 14-2 F14 x Female 10-1 F14_A4.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A5.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A6.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A7.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A8.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A9.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G10.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G11.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G12.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G1.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G2.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G3.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G4.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G5.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G6.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G7.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G8.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_G9.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_H1.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_H2.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_H3.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_H4.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_H5.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_H6.tif
+PLATE 22 F2 VC_ Male 14-2 F14 x Female 10-1 F14_H7.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A1.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A2.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A3.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A4.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A5.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A6.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A7.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A8.tif
+PLATE 23 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A9.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D10.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D11.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D12.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D7.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D8.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D9.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E10.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E11.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E12.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E1.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E2.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E3.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E4.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E5.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E6.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E7.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E8.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_E9.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F10.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F11.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F12.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F1.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F2.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F3.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F4.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F5.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F6.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F7.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F8.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_F9.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G10.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G11.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G12.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G1.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G2.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G3.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G4.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G5.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G6.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G7.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G8.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_G9.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H10.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H11.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H12.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H1.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H2.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H3.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H4.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H5.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H6.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H7.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H8.tif
+PLATE 23 F2 VC_ Male 11-2 F14 x Female 14-2 F14_H9.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A10.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A11.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_A12.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B10.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B11.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B12.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B1.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B2.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B3.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B4.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B5.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B6.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B7.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B8.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_B9.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C10.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C11.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C12.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C1.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C2.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C3.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C4.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C5.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C6.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C7.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C8.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_C9.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_D1.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_D2.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_D3.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_D4.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_D5.tif
+PLATE 23 F2 VC_ Male 14-2 F14 x Female 10-1 F14_D6.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A10.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A11.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A12.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A1.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A2.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A3.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A4.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A5.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A6.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A7.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A8.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_A9.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B10.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B11.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B12.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B1.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B2.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B3.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B4.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B5.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B6.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B7.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B8.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_B9.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C10.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C11.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C12.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C1.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C2.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C3.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C4.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C5.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C6.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C7.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C8.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_C9.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D1.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D2.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D3.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D4.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D5.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D6.tif
+PLATE 24 F2 VC_ Male 11-2 F14 x Female 14-2 F14_D7.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D10.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D11.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D12.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D8.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D9.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E10.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E11.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E12.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E1.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E2.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E3.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E4.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E5.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E6.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E7.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E8.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_E9.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F10.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F11.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F12.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F1.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F2.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F3.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F4.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F5.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F6.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F7.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F8.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_F9.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G10.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G11.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G12.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G1.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G2.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G3.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G4.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G5.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G6.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G7.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G8.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_G9.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H10.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H11.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H12.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H1.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H2.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H3.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H4.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H5.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H6.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H7.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H8.tif
+PLATE 24 F2 VC_ Male 11-2 F15 x Female 72-1 F14_H9.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A10.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A11.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A12.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A1.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A2.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A3.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A4.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A5.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A6.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A7.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A8.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_A9.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B10.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B11.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B12.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B1.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B2.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B3.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B4.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B5.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B6.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B7.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B8.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_B9.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C10 bright field1.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C10 bright field.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C10.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C11.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C12.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C1.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C2.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C3.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C4.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C5.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C6.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C7.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C8.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_C9.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D10.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D11.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D12.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D1.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D2 Brightfield.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D2.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D3.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D4.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D5.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D6.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D7.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D8.tif
+PLATE 25 F2 VC_ Male 11-2 F15 x Female 72-1 F14_D9.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_D10.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_D11.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_D12.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_D6.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_D7.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_D8.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_D9.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E10.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E11.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E12.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E1.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E2.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E3.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E4.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E5.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E6.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E7.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E8.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_E9.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F10.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F11.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F12.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F1.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F2.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F3.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F4.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F5.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F6.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F7.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F8.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_F9.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G10.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G11.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G12.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G1.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G2.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G3.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G4.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G5.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G6.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G7.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G8.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_G9.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H10.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H11.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H12.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H1.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H2.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H3.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H4.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H5.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H6.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H7.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H8.tif
+PLATE 2 F2 VC_Female 95-1 F14 x Male 129-1 F14_H9.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A10.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A11.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A12.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A1.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A2.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A3.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A4.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A5.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A6.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A7.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A8.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_A9.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B10.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B11.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B12.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B1.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B2.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B3.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B4.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B5.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B6.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B7.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B8.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_B9.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C10.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C11.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C12.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C1.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C2.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C3.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C4.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C5.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C6.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C7.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C8.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_C9.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_D1.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_D2.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_D3.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_D4.tif
+PLATE 2 F2 VC_Male 95-1 F14 x Female 129-1 F14_D5.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A10.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A11.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A12.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A1.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A2.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A3.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A4.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A5.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A6.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A7.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A8.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_A9.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B10.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B11.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B12.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B1.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B2.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B3.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B4.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B5.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B6.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B7.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B8.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_B9.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C10.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C11.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C12.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C1.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C3.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C4.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C5.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C6.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C7.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C8.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_C9.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D10.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D11.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D12.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D1.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D2.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D3.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D4.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D5.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D6.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D7.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D8.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_D9.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E10.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E11.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E12.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E1.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E2.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E3.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E4.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E5.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E6.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E7.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E8.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_E9.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_F1.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_F2.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_F3.tif
+PLATE 3 F2 VC_Female 14-2 F14 x Male 72-1 F14_F4.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F10.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F11.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F12.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F5.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F6.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F7.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F8.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_F9.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G10.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G11.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G12.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G1.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G2.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G3.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G4.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G5.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G6.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G7.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G8.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_G9.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H10.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H11.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H12.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H1.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H2.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H3.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H4.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H5.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H6.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H7.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H8.tif
+PLATE 3 F2 VC_Male 14-2 F14 x Female 72-1 F14_H9.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_D10.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_D11.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_D12.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_D7.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_D8.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_D9.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E10.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E11.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E12.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E1.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E2.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E3.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E4.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E5.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E6.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E7.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E8.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_E9.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_F1.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_F2.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_F3.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_F4.tif
+PLATE 4 F2 VC_Female 14-2 F14 x Male 72-1 F14_F5.tif
+PLATE 4 F2 VC_Female 95-1 F14 x Male 129-1 F14_H12.tif
+PLATE 4 F2 VC_Female 95-1 F14 x Male 72-1 F14_F10.tif
+PLATE 4 F2 VC_Female 95-1 F14 x Male 72-1 F14_F11.tif
+PLATE 4 F2 VC_Female 95-1 F14 x Male 72-1 F14_F6.tif
+PLATE 4 F2 VC_Female 95-1 F14 x Male 72-1 F14_F7.tif
+PLATE 4 F2 VC_Female 95-1 F14 x Male 72-1 F14_F8.tif
+PLATE 4 F2 VC_Female 95-1 F14 x Male 72-1 F14_F9.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A10.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A11.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A12.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A1.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A2.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A3.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A4.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A5.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A6.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A7.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A8.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_A9.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B10.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B11.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B12.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B1.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B2.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B3.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B4.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B5.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B6.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B7.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B8.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_B9.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C10.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C11.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C12.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C1.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C2.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C3.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C4.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C5.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C6.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C7.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C8.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_C9.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_D1.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_D2.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_D3.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_D4.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_D5.tif
+PLATE 4 F2 VC_Male 14-2 F14 x Female 72-1 F14_D6.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_G12.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H10.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H11.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H1.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H2.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H3.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H4.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H5.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H6.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H7.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H8.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 129-1 F14_H9.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_F12.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G10.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G11.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G1.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G2.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G3.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G4.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G5.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G6.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G7.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G8.tif
+PLATE 4 F2 VC_Male 95-1 F14 x Female 72-1 F14_G9.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_G12.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H10.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H11.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H12.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H1.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H2.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H3.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H4.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H5.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H6.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H7.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H8.tif
+PLATE 5 F2 VC_Tank bottom Female 14-2 F14 x Male 72-1 F14_H9.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C10.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C11.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C12.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C4.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C5.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C7.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C8.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_C9.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D10.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D11.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D12.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D1.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D2.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D3.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D4.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D5.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D6.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D7.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D8.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_D9.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_E1.tif
+PLATE 5 F2 VC_Tank bottom Female 95-1 F14 x Male 72-1 F14_one eye_C6.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E10.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E11.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E12.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E2.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E3.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E4.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E5.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E6.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E7.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E8.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_E9.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F10.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F11.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F12.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F1.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F2.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F3.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F4.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F5.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F6.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F7.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F8.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_F9.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G10.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G11.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G1.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G2.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G3.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G4.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G5.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G6.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G7.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G8.tif
+PLATE 5 F2 VC_Tank bottom Male 14-2 F14 x Female 72-1 F14_G9.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A10.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A11.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A12.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A1.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A2.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A3.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A4.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A5.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A6.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A7.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A8.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_A9.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B10.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B11.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B12.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B1.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B2.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B3.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B4.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B5.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B6.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B7.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B8.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_B9.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_C1.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_C2.tif
+PLATE 5 F2 VC_Tank bottom_Male 95-1 F14 x Female 72-1 F14_C3.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_G10.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_G11.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_G12.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_G8.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_G9.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H10.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H11.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H12.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H1.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H2.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H3.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H4.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H5.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H6.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H7.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H8.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 129-1 F14_H9.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F10.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F11.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F12.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F4.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F5.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F6.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F7.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F8.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F9.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_G1.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_G2.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_G3.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_G4.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_G5.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_G6.tif
+PLATE 6 F2 VC_ Female 95-1 F14 x Male 72-1 F14_G7.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_B10.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_B11.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_B12.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_B6.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_B7.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_B8.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_B9.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C10.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C11.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C12.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C1.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C2.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C3.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C4.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C5.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C6.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C7.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C8.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_C9.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D10.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D11.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D12.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D1.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D2.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D3.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D4.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D5.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D6.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D7.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D8.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D9.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_E1.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_E2.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_E3.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_E4.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_E5.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_E10.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_E11.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_E12.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_E6.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_E7.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_E8.tif
+PLATE 6 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_E9.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A10.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A11.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A12.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A1.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A2.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A3.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A4.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A5.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A6.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A7.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A8.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_A9.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_B1.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_B2.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_B3.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_B4.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 129-1 F14_B5.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F1.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F2.tif
+PLATE 6 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F3.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_B10.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_B11.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_B12.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_B8.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_B9.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C10.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C11.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C12.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C1.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C2.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C3.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C4.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C5.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C6.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C7.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C8.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_C9.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D1.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D2.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D3.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D4.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D5.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D6.tif
+PLATE 7 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D7.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G10.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G11.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G12.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G3.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G4.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G5.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G6.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G7.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G8.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_G9.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H1.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H2.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H3.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H4.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 33-1 F14_H5.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E10.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E11.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E12.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E7.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E8.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_E9.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F1.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F2.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F3.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F4.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F5.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_F6.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_Tank bottom_A1.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_Tank bottom_A2.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_Tank bottom_A3.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_Tank bottom_A4.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_Tank bottom_A5.tif
+PLATE 7 F2 VC_ Female 95-1 F14 x Male 72-1 F14_Tank bottom_A6.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D10.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D11.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D12.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D8.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_D9.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_A10.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_A11.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_A12.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_A7.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_A8.tif
+PLATE 7 F2 VC_ Male 14-2 F14 x Female 72-1 F14_Tank bottom_A9.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H10.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H11.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H12.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H6.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H7.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H8.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 10-1 F14_H9.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B1.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B2.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B3.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B4.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B5.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B6.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_B7.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E1.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E2.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E3.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E4.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E5.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_E6.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F10.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F11.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F12.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F7.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F8.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_F9.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_G1.tif
+PLATE 7 F2 VC_ Male 95-1 F14 x Female 72-1 F14_G2.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B10.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B11.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B12.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B8.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_B9.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C10.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C11.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C12.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C1.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C2.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C3.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C4.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C5.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C6.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C7.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C8.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_C9.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D1.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D2.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D3.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 10-1 F14_D4.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F10.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F11.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F12.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F1.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F2.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F3.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F4.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F5.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F6.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F7.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F8.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_F9.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_G1.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_G2.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_G3.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_G4.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_G5.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 60-1 F14_G6.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D10.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D11.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D12.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D5.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D6.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D7.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D8.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_D9.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E10.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E11.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E12.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E1.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E2.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E3.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E4.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E5.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E6.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E7.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E8.tif
+PLATE 8 F2 VC_ Female 14-2 F14 x Male 72-1 F14_E9.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A10.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A11.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A12.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A5.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A6.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A7.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A8.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_A9.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_B1.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_B2.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_B3.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_B4.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_B5.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_B6.tif
+PLATE 8 F2 VC_ Female 95-1 F14 x Male 10-1 F14_B7.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G10.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G11.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G12.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G7.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G8.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_G9.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H10.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H11.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H12.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H1.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H2.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H3.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H4.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H5.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H6.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H7.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H8.tif
+PLATE 8 F2 VC_ Male 14-2 F14 x Female 60-1 F14_H9.tif
+PLATE 8 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A1.tif
+PLATE 8 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A2.tif
+PLATE 8 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A3.tif
+PLATE 8 F2 VC_ Male 95-1 F14 x Female 10-1 F14_A4.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_F10.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_F11.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_F12.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G10.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G11.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G12.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G1.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G2.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G3.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G4.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G5.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G6.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G7.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G8.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_G9.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H10.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H11.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H12.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H1.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H2.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H3.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H4.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H5.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H6.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H7.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H8.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 10-1 F14_H9.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E10.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E11.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E12.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E2.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E3.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E4.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E5.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E6.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E7.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E8.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_E9.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F1.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F2.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F3.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F4.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F5.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F6.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F7.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F8.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 129-1 F14_F9.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A10.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A11.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A12.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A6.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A7.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A8.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_A9.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B1.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B2.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B3.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B4.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B5.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B6.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B7.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B8.tif
+PLATE 9 F2 VC_ Female 14-2 F14 x Male 33-1 F14_B9.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B10.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B11.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_B12.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C10.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C11.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C12.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C1.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C2.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C3.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C4.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C5.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C6.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C7.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C8.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_C9.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D10.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D11.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D12.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D1.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D2.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D3.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D4.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D5.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D6.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D7.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D8.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_D9.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 33-1 F14_E1.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A1.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A2.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A3.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A4.tif
+PLATE 9 F2 VC_ Male 14-2 F14 x Female 60-1 F14_A5.tif
