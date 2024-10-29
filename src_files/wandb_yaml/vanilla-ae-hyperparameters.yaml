@@ -1,0 +1,17 @@
+program: /nfs/research/birney/users/esther/medaka-img/ml_pipeline/__init__.py
+method: grid
+metric: 
+  goal: minimize
+  name: val_loss
+parameters:
+  learning_rate: {"values": [0.001, 0.0001, 0.00001]}
+  batch_size: {"values": [4, 16, 32, 64]}
+  epochs: {"values": [200]}
+
+command:
+  - ${env}
+  - ${interpreter}
+  - ${program}
+  - "--config"
+  - "/nfs/research/birney/users/esther/medaka-img/src_files/wandb_yaml/vanilla-ae-v1.yaml"
+  - ${args}
