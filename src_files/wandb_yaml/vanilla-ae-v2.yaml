@@ -1,12 +1,12 @@
-project_name: convnet-ae-pytorch-medaka
-architecture: Convolutional NN-based autoencoder
+project_name: vanilla-ae-pytorch-medaka
+architecture: Vanilla autoencoder (Tom)
 ckpt_dir: /hps/nobackup/birney/users/esther/medaka-img/models/
 ckpt_freq: 10
 criterion: MSELoss
 data_csv: /nfs/research/birney/users/esther/medaka-img/src_files/train_set_2024-10-03.csv
 data_dir: /nfs/research/birney/users/esther/medaka-img/src_files/train_2024-10-03/raw_images/
 direction_csv: /nfs/research/birney/users/esther/medaka-img/scripts/left-facing-fish.csv
-model: convnet-ae
+model: vanilla-ae-sigmoid
 optimizer: adam
 reconstruction_table_freq: 10
 train_img_rotation: 10

@@ -54,10 +54,9 @@ class MedakaDataset(Dataset):
         img_name = self.image_paths[idx]
         img_path = f'{self.src_dir}/{img_name}'
         
-        if self.config['model'] in ["vanilla-ae", "vanilla-ae-relu"]:
+        if self.config['model'] in ["vanilla-ae-sigmoid", "vanilla-ae-relu"]:
             image = ski.io.imread(img_path)[:, :, 0]
         else:
-            print("Loading image")
             image = ski.io.imread(img_path)
 
         # Apply transformations

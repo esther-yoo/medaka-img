@@ -29,7 +29,7 @@ def train(model, train_loader, val_loader, val_dataset, criterion, optimizer, ru
         model.train()
         for image, image_name in train_loader:
             image = random_trans(image)
-            if config['model'] in ["vanilla-ae", "vanilla-ae-relu"]:
+            if config['model'] in ["vanilla-ae-sigmoid", "vanilla-ae-relu"]:
                 image = torch.reshape(image,(-1, 224*224))
             train_loss = train_batch(image, model, optimizer, criterion, device)
             example_ct +=  len(image) # the batch size
@@ -41,7 +41,7 @@ def train(model, train_loader, val_loader, val_dataset, criterion, optimizer, ru
         with torch.no_grad():
             val_loss = 0.0
             for image, image_name in val_loader:
-                if config['model'] in ["vanilla-ae", "vanilla-ae-relu"]:
+                if config['model'] in ["vanilla-ae-sigmoid", "vanilla-ae-relu"]:
                     image = torch.reshape(image,(-1, 224*224))
                 image = image.to(device)
                 output = model(image)
@@ -54,34 +54,34 @@ def train(model, train_loader, val_loader, val_dataset, criterion, optimizer, ru
             
         # Every 20th epoch (or last epoch), save model checkpoint
         if ((epoch % config['ckpt_freq'] == 0) or (epoch == config['epochs']-1)):
-            if epoch == 0:
-                old_val_loss = val_loss
-            else:
-                date_time = datetime.now().strftime("%Y-%m-%d-%H%M")
-                ckpt_name = f"ckpt-model-{config['model']}-run-{run_name}-epoch-{epoch}-time-{date_time}" 
+            val_loss_dict[epoch] = val_loss
+            date_time = datetime.now().strftime("%Y-%m-%d-%H%M")
+            ckpt_name = f"ckpt-model-{config['model']}-run-{run_name}-epoch-{epoch}-time-{date_time}" 
 
-                save_checkpoint(model, optimizer, epoch, filename=f"{config['ckpt_dir']}/checkpoints/vanilla-ae-pytorch-medaka/{run_name}/{ckpt_name}.pt")
-
-                # Only log model checkpoint as artifact if new val_loss is less than the previous val_loss
-                if val_loss < old_val_loss:
-                    wandb.log_artifact(
-                        artifact_or_path=f"{config['ckpt_dir']}/checkpoints/vanilla-ae-pytorch-medaka/{run_name}/{ckpt_name}.pt", 
-                        type="model-checkpoint",
-                        aliases=[f"model={config['model']}", f"architecture={config['architecture']}", f"epoch={epoch}", f"run={run_name}"])
-                
-                old_val_loss = val_loss
-
+            save_checkpoint(model, optimizer, epoch, filename=f"{config['ckpt_dir']}/checkpoints/{config['project_name']}/{run_name}/{ckpt_name}.pt")
 
         # Every 50th epoch (or last epoch), output image reconstruction
         if (epoch % config['reconstruction_table_freq'] == 0) or (epoch == config['epochs']-1):
             print("Logging table at epoch", epoch)
             show_img, id = val_dataset[0]
-            show_img = show_img.unsqueeze(0)
-            recon_img = model(show_img.to(device)).cpu().detach().to(torch.float32)
+            if config['model'] in ["vanilla-ae-sigmoid", "vanilla-ae-relu"]:
+                recon_img = model(torch.reshape(show_img, (-1, 224*224)).to(device)).reshape(224, 224).cpu().detach().to(torch.float32)
+            else:
+                show_img = show_img.unsqueeze(0)
+                recon_img = model(show_img.to(device)).cpu().detach().to(torch.float32)
             test_table.add_data(epoch, id, wandb.Image(show_img), wandb.Image(recon_img))
             test_table = wandb.Table(columns=columns, data=test_table.data)
             wandb.log({"Image reconstruction performance": test_table})
 
+    # Only log model checkpoint as artifact if the val_loss is the lowest in val_loss_dict
+    # lowest_epoch, lowest_val_loss = min(val_loss_dict.items(), key=lambda item: item[1])
+
+    # ckpt_name = f"ckpt-model-{config['model']}-run-{run_name}-epoch-{lowest_epoch}"
+
+    # wandb.log_artifact(
+    #     artifact_or_path=f"{config['ckpt_dir']}/checkpoints/{config['project_name']}/{run_name}/{ckpt_name}*.pt", 
+    #     type="model-checkpoint",
+    #     aliases=[f"model={config['model']}", f"architecture={config['architecture']}", f"epoch={lowest_epoch}", f"run={run_name}"])
 
 def train_batch(image, model, optimizer, criterion, device):
     image = image.to(device)

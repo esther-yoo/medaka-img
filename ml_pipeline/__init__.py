@@ -1,6 +1,6 @@
 import utils, models, data, train
 from data import MedakaDataset
-from models import AutoEncoder, AutoEncoderRelu, AutoEncoderConv
+from models import AutoEncoderSigmoid, AutoEncoderRelu, AutoEncoderConv, AutoEncoderResNet, AutoEncoderVGGNet
 import os
 import torch
 import wandb
@@ -67,14 +67,22 @@ def make(train_dataset, val_dataset, config):
     num_hidden_3 = 256
     num_hidden_4 = 128
 
-    if config['model'] == 'vanilla-ae':
-        model = AutoEncoder(num_input, num_hidden_0, num_hidden_1, num_hidden_2, num_hidden_3, num_hidden_4)
+    if config['model'] == 'vanilla-ae-sigmoid':
+        model = AutoEncoderSigmoid(num_input, num_hidden_0, num_hidden_1, num_hidden_2, num_hidden_3, num_hidden_4)
         print(summary(model, input_size=(1, 224*224)))
     elif config['model'] == 'vanilla-ae-relu':
         model = AutoEncoderRelu(num_input, num_hidden_0, num_hidden_1, num_hidden_2, num_hidden_3, num_hidden_4)
         print(summary(model, input_size=(1, 224*224)))
     elif config['model'] == 'convnet-ae':
         model = AutoEncoderConv(input_dim=(3, 224, 224), latent_dim=128)
+        print(summary(model, input_size=(32, 3, 224, 224)))
+    elif config['model'] == 'resnet-ae':
+        model = AutoEncoderResNet(input_dim=(3, 224, 224), latent_dim=128)
+        print(summary(model, input_size=(32, 3, 224, 224)))
+    elif config['model'] == 'vggnet-ae':
+        model = AutoEncoderVGGNet(input_dim=(3, 224, 224), latent_dim=128)
+        model.encoder_features.requires_grad_(False)
+        model.encoder_adaptive_pool.requires_grad_(False)
         print(summary(model, input_size=(32, 3, 224, 224)))
     else:
         return NotImplementedError(f"{config['model']} is not implemented.")
@@ -125,5 +133,10 @@ if __name__ == "__main__":
     #     sweep_id = wandb.sweep(sweep=config, project="vanilla-ae-pytorch-medaka")
     #     wandb.agent(sweep_id, function=main(run=run, config=config), count=4)
     # else:
+
+
     run = wandb.init(project=config['project_name'], config=config)
+    # run = wandb.init(entity="ey267-university-of-cambridge",
+    #                  project=config['project_name'],
+    #                  id="earthy-sweep-3", resume="must")
     main(run=run, config=config)    

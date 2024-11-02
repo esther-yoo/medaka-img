@@ -6,12 +6,12 @@ metric:
 parameters:
   learning_rate: {"values": [0.001, 0.0001, 0.00001]}
   batch_size: {"values": [4, 16, 32, 64]}
-  epochs: {"values": [300]}
+  epochs: {"values": [500]}
 
 command:
   - ${env}
   - ${interpreter}
   - ${program}
   - "--config"
-  - "/nfs/research/birney/users/esther/medaka-img/src_files/wandb_yaml/vanilla-ae-v2.yaml"
+  - "/nfs/research/birney/users/esther/medaka-img/src_files/wandb_yaml/convnet-ae-v1.yaml"
   - ${args}
