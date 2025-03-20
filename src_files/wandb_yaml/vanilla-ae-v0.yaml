@@ -11,3 +11,5 @@ optimizer: adam
 reconstruction_table_freq: 10
 train_img_rotation: 10
 train_split: 0.8
+train_from_checkpoint: False
+train_from_checkpoint_path: None
