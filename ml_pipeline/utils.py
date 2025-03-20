@@ -2,6 +2,29 @@ import os
 import random
 import torch
 import numpy as np
+import torch.nn.functional as F
+import torch.nn as nn
+
+class CustomMSELoss:
+    def __call__(self, recon_x, x):
+        MSE = F.mse_loss(
+            recon_x.reshape(x.shape[0], -1), x.reshape(x.shape[0], -1), reduction="none"
+        ).sum(dim=-1)
+        return MSE.mean(dim=0)
+
+class VAELoss:
+    def __call__(self, recon_x, x, mu, logvar):
+        # MSE = F.mse_loss(
+        #     recon_x.reshape(x.shape[0], -1), x.reshape(x.shape[0], -1), reduction="none"
+        # ).sum(dim=-1)
+        MSE = nn.MSELoss(reduction='mean')(recon_x, x)
+        # BCE = F.binary_cross_entropy(recon_x.reshape(x.shape[0], -1), x.reshape(x.shape[0], -1))
+        # KLD = torch.mean(-0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp(), dim = 1), dim=0)
+        KLD = -0.5 * torch.mean(1 + logvar - mu.pow(2) - logvar.exp())
+        beta = 0.000000001
+        print("MSE: ", MSE)
+        print("KLD: ", KLD)
+        return MSE + beta*KLD
 
 def set_seeds(seed: int = 42):
     """Set seeds for reproducibility."""

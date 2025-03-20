@@ -1,0 +1,69 @@
+_wandb:
+    value:
+        cli_version: 0.18.3
+        m: []
+        python_version: 3.9.1
+        t:
+            "1":
+                - 1
+                - 41
+                - 55
+            "2":
+                - 1
+                - 41
+                - 55
+            "3":
+                - 1
+                - 2
+                - 16
+                - 23
+                - 55
+                - 61
+            "4": 3.9.1
+            "5": 0.18.3
+            "8":
+                - 5
+            "12": 0.18.3
+            "13": linux-x86_64
+architecture:
+    value: Convolutional NN-based autoencoder - train using ilastik masks as input
+batch_size:
+    value: 4
+ckpt_dir:
+    value: /hps/nobackup/birney/users/esther/medaka-img/models/
+ckpt_freq:
+    value: 20
+criterion:
+    value: MSELoss
+data_csv:
+    value: /nfs/research/birney/users/esther/medaka-img/src_files/train_set_2024-10-03.csv
+data_dir:
+    value: /nfs/research/birney/users/esther/medaka-img/src_files/train_2024-10-03/
+direction_csv:
+    value: /nfs/research/birney/users/esther/medaka-img/scripts/left-facing-fish.csv
+epochs:
+    value: 1000
+latent_dim:
+    value: 128
+learning_rate:
+    value: 0.0001
+loss_with_mask:
+    value: false
+mask_coef:
+    value: None
+model:
+    value: convnet-ae
+optimizer:
+    value: adam
+project_name:
+    value: convnet-ae-pytorch-medaka
+reconstruction_table_freq:
+    value: 10
+train_from_checkpoint:
+    value: false
+train_from_checkpoint_path:
+    value: None
+train_img_rotation:
+    value: 10
+train_split:
+    value: 0.8

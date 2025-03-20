@@ -1,6 +1,7 @@
 import utils, models, data, train
 from data import MedakaDataset
-from models import AutoEncoderSigmoid, AutoEncoderRelu, AutoEncoderConv, AutoEncoderResNet, AutoEncoderVGGNet
+from models import AutoEncoderSigmoid, AutoEncoderRelu, AutoEncoderConv, AutoEncoderResNet, AutoEncoderVGGNet, VariationalAutoEncoderConv, VariationalAutoEncoderResNet
+from utils import CustomMSELoss, VAELoss
 import os
 import torch
 import wandb
@@ -26,7 +27,11 @@ def main(run, config):
     utils.set_seeds()
 
     # Load the data
-    dataset = MedakaDataset(data_csv=config['data_csv'], direction_csv=config['direction_csv'], src_dir=config['data_dir'], transform=data.transform(resize_shape=(224, 224)), config=config)
+    if ("resize_shape" in config):
+        resize_shape = config['resize_shape']
+    else:
+        resize_shape = (224, 224)
+    dataset = MedakaDataset(data_csv=config['data_csv'], direction_csv=config['direction_csv'], src_dir=config['data_dir'], transform=data.transform(resize_shape=resize_shape), config=config)
     
     train_len = int(len(dataset) * config['train_split'])
     val_len = len(dataset) - train_len
@@ -74,32 +79,48 @@ def make(train_dataset, val_dataset, config):
         model = AutoEncoderRelu(num_input, num_hidden_0, num_hidden_1, num_hidden_2, num_hidden_3, num_hidden_4)
         print(summary(model, input_size=(1, 224*224)))
     elif config['model'] == 'convnet-ae':
-        model = AutoEncoderConv(input_dim=(3, 224, 224), latent_dim=128)
-        print(summary(model, input_size=(32, 3, 224, 224)))
+        model = AutoEncoderConv(input_dim=(1, 224, 224), latent_dim=config["latent_dim"])
+        print(summary(model, input_size=(1, 1, 224, 224)))
     elif config['model'] == 'resnet-ae':
-        model = AutoEncoderResNet(input_dim=(3, 224, 224), latent_dim=128)
-        print(summary(model, input_size=(32, 3, 224, 224)))
+        model = AutoEncoderResNet(input_dim=(3, 224, 224), latent_dim=config["latent_dim"])
+        print(summary(model, input_size=(1, 3, 224, 224)))
     elif config['model'] == 'vggnet-ae':
         model = AutoEncoderVGGNet(input_dim=(3, 224, 224), latent_dim=128)
         model.encoder_features.requires_grad_(False)
         model.encoder_adaptive_pool.requires_grad_(False)
-        print(summary(model, input_size=(32, 3, 224, 224)))
+        print(summary(model, input_size=(1, 3, 224, 224)))
+    elif config['model'] == 'convnet-vae':
+        model = VariationalAutoEncoderResNet(input_dim=(3, 224, 224), latent_dim=config["latent_dim"])
+        # model = VariationalAutoEncoderConv(input_dim=(1, 224, 224), latent_dim=config["latent_dim"])
+        print(summary(model, input_size=(1, 3, 224, 224)))
+        if config['criterion'] != 'VAELoss':
+            return ValueError(f"Criterion must be VAELoss for {config['model']}.")
     else:
         return NotImplementedError(f"{config['model']} is not implemented.")
-
-    
 
     # Make the loss and optimizer
     if config['criterion'] == 'MSELoss':
         criterion = nn.MSELoss()
+    elif config['criterion'] == 'CustomMSELoss':
+        criterion = CustomMSELoss()
+    elif config['criterion'] == 'VAELoss':
+        criterion = VAELoss()
+        # criterion = CustomMSELoss()
     else:
         return NotImplementedError(f"{config['criterion']} is not implemented.")
-    
+    print(f"Criterion: {criterion}")
+
     if config['optimizer'] == 'adam':
         optimizer = torch.optim.Adam(
         model.parameters(), lr=config['learning_rate'])
     else:
         return NotImplementedError(f"{config['optimizer']} is not implemented.")
+    
+    # Implement training from checkpoint if indicated
+    if config['train_from_checkpoint']:
+        checkpoint = torch.load(config['train_from_checkpoint_path'])
+        model.load_state_dict(checkpoint['model_state_dict'])
+        optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
     
     return model, train_loader, val_loader, criterion, optimizer
 

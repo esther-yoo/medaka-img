@@ -30,11 +30,12 @@ micromamba activate $MICROMAMBA_ENV
 # Create new sweep
 # wandb sweep --project vanilla-ae-pytorch-medaka /nfs/research/birney/users/esther/medaka-img/src_files/wandb_yaml/vanilla-ae-hyperparameters.yaml
 # # Run sweep agent
-# CUDA_VISIBLE_DEVICES=3 wandb agent ey267-university-of-cambridge/vanilla-ae-pytorch-medaka/nl6laxg2 --count 4
-# CUDA_VISIBLE_DEVICES=3 wandb agent ey267-university-of-cambridge/convnet-ae-pytorch-medaka/usk9bfsw --count 4
-CUDA_VISIBLE_DEVICES=5 wandb agent ey267-university-of-cambridge/vanilla-ae-pytorch-medaka/49fxm9xx --count 2
+# CUDA_VISIBLE_DEVICES=3 wandb agent ey267-university-of-cambridge/resnet-ae-pytorch-medaka/f806dvlk --count 3
+# CUDA_VISIBLE_DEVICES=3 wandb agent ey267-university-of-cambridge/convnet-ae-pytorch-medaka/c5jwt1qz --count 3
+# CUDA_VISIBLE_DEVICES=5 wandb agent ey267-university-of-cambridge/vanilla-ae-pytorch-medaka/49fxm9xx --count 2
 # wandb-slurm --project vanilla-ae-pytorch-medaka --sweep r7t1tmyy \
 # start-agents --mem 10GB --cpus-per-task 6 --num-gpus 1 --num-agents 4
 
 # Run the pipeline (single run)
-# python3 /nfs/research/birney/users/esther/medaka-img/ml_pipeline/__init__.py --config /nfs/research/birney/users/esther/medaka-img/src_files/wandb_yaml/vanilla-ae-v2.yaml --batch_size 4 --epochs 300 --learning_rate 0.00001
+CUDA_LAUNCH_BLOCKING=1 python3 /nfs/research/birney/users/esther/medaka-img/ml_pipeline/__init__.py --config /nfs/research/birney/users/esther/medaka-img/src_files/wandb_yaml/vae-v0.yaml --batch_size 52 --epochs 500 --learning_rate 0.0001
+# CUDA_LAUNCH_BLOCKING=1 python3 /nfs/research/birney/users/esther/medaka-img/ml_pipeline/__init__.py --config /nfs/research/birney/users/esther/medaka-img/src_files/wandb_yaml/resnet-ae-v2.yaml --batch_size 52 --epochs 100 --learning_rate 0.001

@@ -17,4 +17,4 @@ export TOWER_ACCESS_TOKEN=eyJ0aWQiOiA4NjgyfS4yM2EzMjYyNWZmZTczNTkzZTdhOTc3NTU1Zj
 export NXF_VER=23.04.1
 export NXF_OPTS="-Xms500M -Xmx2G"
 
-nextflow run birneylab/flexlmm -profile medaka,stitch,ebi_codon_slurm,singularity -params-file /nfs/research/birney/users/esther/medaka-img/scripts/flexlmm_params/convnet-ae-pytorch-medaka/flexlmm_params_abdominal_data_matrix_amber-sweep-1-epoch500.yaml -r main -with-tower
+nextflow run birneylab/flexlmm -profile medaka,stitch,ebi_codon_slurm,singularity -params-file /nfs/research/birney/users/esther/medaka-img/scripts/flexlmm_params/convnet-ae-pytorch-medaka/flexlmm_params_restful-sweep-4-epoch980-PC9.yaml -r main -with-tower
